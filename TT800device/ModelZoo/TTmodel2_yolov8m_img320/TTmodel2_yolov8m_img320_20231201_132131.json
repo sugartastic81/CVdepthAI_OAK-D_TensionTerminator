@@ -1,0 +1,27 @@
+{
+    "model": {
+        "xml": "TTmodel2_yolov8m_img320_20231201_132131.xml",
+        "bin": "TTmodel2_yolov8m_img320_20231201_132131.bin"
+    },
+    "nn_config": {
+        "output_format": "detection",
+        "NN_family": "YOLO",
+        "input_size": "320x320",
+        "NN_specific_metadata": {
+            "classes": 3,
+            "coordinates": 4,
+            "anchors": [],
+            "anchor_masks": {},
+            "iou_threshold": 0.5,
+            "confidence_threshold": 0.5
+        }
+    },
+    "mappings": {
+        "labels": [
+            "Duoballs",
+            "Head",
+            "Triggerpointlever"
+        ]
+    },
+    "version": 1
+}
