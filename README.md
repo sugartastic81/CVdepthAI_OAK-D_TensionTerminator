@@ -76,9 +76,9 @@ python3 TT800run.py -fast
 
 
 ### Screenshots of the output of the TT800run.py script
-![cumulative object counting](../docufiles/screenshot_tt800run.png)
+![cumulative object counting](docufiles/screenshot_tt800run.png)
 
-![cumulative object counting](../docufiles/screenshot_tt800run_2.png)
+![cumulative object counting](docufiles/screenshot_tt800run_2.png)
 
 ###
 ###
@@ -94,4 +94,4 @@ python3 TTmodeltest.py -1
 ```
 
 ### Screenshot of the output of the TTmodeltest.py script
-![cumulative object counting](../docufiles/screenshot_ttmodeltest.png)
+![cumulative object counting](docufiles/screenshot_ttmodeltest.png)
